@@ -1,5 +1,6 @@
-import Home from "./src/Home";
-import QueryClientProvider from './src/QueryClientProvider'
+import "./global.css"
+import Home from "./src/app/Home";
+import QueryClientProvider from './src/app/QueryClientProvider'
 
 
 export default function App() {
