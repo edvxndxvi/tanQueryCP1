@@ -1,4 +1,3 @@
-import "./global.css"
 import Home from "./src/app/Home";
 import QueryClientProvider from './src/app/QueryClientProvider'
 
